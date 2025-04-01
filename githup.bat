@@ -10,7 +10,7 @@ call git add .
 echo =========================================================================
 echo Realizando commit...
 echo =========================================================================
-call git commit -m ""
+call git commit -m "commit"
 
 echo =========================================================================
 echo Haciendo push al repositorio remoto...
